@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "流星群",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-14T01:45:04.079691Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "流星群",
+      "artist": "Straightener",
+      "has_synced": true,
+      "path": "select/01_流星群_Straightener.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "流星群",
+      "artist": "ストレイテナー",
+      "has_synced": true,
+      "path": "select/02_流星群_ストレイテナー.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ryuuseigun [流星群]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/03_Ryuuseigun_[流星群]_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "流星群",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_流星群_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "流星群",
+      "artist": "鬼束ちひろ",
+      "has_synced": true,
+      "path": "select/05_流星群_鬼束ちひろ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "流星群",
+      "artist": "ジュリア(CV 寺川愛美)",
+      "has_synced": true,
+      "path": "select/06_流星群_ジュリア(CV_寺川愛美).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "流星群 (album version)",
+      "artist": "鬼束ちひろ",
+      "has_synced": true,
+      "path": "select/07_流星群_(album_version)_鬼束ちひろ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "流星群",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/08_流星群_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "流星群",
+      "artist": "pe'zmoku",
+      "has_synced": true,
+      "path": "select/09_流星群_pe'zmoku.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "流星群(Live)",
+      "artist": "Chihiro Onitsuka",
+      "has_synced": false,
+      "path": "select/10_流星群(Live)_Chihiro_Onitsuka.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "流星群",
+      "artist": "ジュリア (愛美)",
+      "has_synced": true,
+      "path": "select/11_流星群_ジュリア_(愛美).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ryuuseigun (流星群)",
+      "artist": "Chihiro Onitsuka (鬼束ちひろ)",
+      "has_synced": false,
+      "path": "select/12_Ryuuseigun_(流星群)_Chihiro_Onitsuka_(鬼束ちひろ).txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "流星群",
+      "artist": "ウワサノペタルズ",
+      "has_synced": false,
+      "path": "select/13_流星群_ウワサノペタルズ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "流星群",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_流星群_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
